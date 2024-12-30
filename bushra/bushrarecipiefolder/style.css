@@ -1,0 +1,14 @@
+/*xxxxxxxxxxxxxxxxxxxxxxx all xxxxxxxxxxxxxxxxxxxxxxxxxx*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+
+  /********** kisi bhi cheez per scale lagana ho (css) ****************/
+.class:hover {
+    transform: scale(1.4);
+    transition: transform 0.2s;
+  }
+  
